@@ -1,0 +1,21 @@
+{
+  "baseUrl": "https://khelmela-combined-pm2-svc-611661370769.asia-south1.run.app",
+  "nsp": "200",
+  "latestVersion": "3.6.7",
+  "latestBuildNumber": "67",
+  "status": "200",
+  "tokenWindow": "Nv_10-Dc15",
+  "notify": "https://khelmela-svc-611661370769.asia-south1.run.app",
+  "transaction_server": "https://transaction-svc-611661370769.asia-south1.run.app",
+  "game_server": "https://game-services-svc-611661370769.asia-south1.run.app",
+  "test_mode": "true",
+  "topup_active": "true",
+  "test_url": "https://test-kh-pi.vercel.app/", 
+
+  "KF1": "https://khelmela-web-view.vercel.app",
+  "KF2": "https://khelmela-web-view.vercel.app",
+  "KF3": "https://khelmela-web-view.vercel.app",
+  "KF4": "https://khelmela-web-view.vercel.app",
+  "KF5": "https://khelmela-web-view.vercel.app",
+  "KF6": "https://khelmela-web-view.vercel.app"
+}
