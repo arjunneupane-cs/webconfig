@@ -1,8 +1,8 @@
 {
   "baseUrl": "https://khelmela-combined-pm2-svc-611661370769.asia-south1.run.app",
   "nsp": "200",
-  "latestVersion": "3.8.1",
-  "latestBuildNumber": "81",
+  "latestVersion": "3.8.6",
+  "latestBuildNumber": "86",
   "status": "200",
   "tokenWindow": "Nv_10-Dc15",
   "notify": "https://khelmela-svc-611661370769.asia-south1.run.app",
