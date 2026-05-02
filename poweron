@@ -12,11 +12,11 @@
   "topup_active": "true",
   "test_url": "https://test-kh-pi.vercel.app", 
 
-  "KF1": "https://44ff296a.khelmela-webview.pages.dev",
-  "KF2": "https://44ff296a.khelmela-webview.pages.dev",
-  "KF3": "https://44ff296a.khelmela-webview.pages.dev",
-  "KF4": "https://5b464eab.khelmela-webview-nsg05.pages.dev",
-  "KF5": "https://5b464eab.khelmela-webview-nsg05.pages.dev",
-  "KF6": "https://5b464eab.khelmela-webview-nsg05.pages.dev"
+  "KF1": "https://khelmela-webview-nsg05.pages.dev",
+  "KF2": "https://khelmela-webview-nsg05.pages.dev",
+  "KF3": "https://khelmela-webview-nsg05.pages.dev",
+  "KF4": "https://khelmela-webview.pages.dev",
+  "KF5": "https://khelmela-webview.pages.dev",
+  "KF6": "https://khelmela-webview.pages.dev"
 }
 
