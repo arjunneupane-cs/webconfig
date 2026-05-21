@@ -9,7 +9,7 @@
   "transaction_server": "https://transaction-svc-611661370769.asia-south1.run.app",
   "game_server": "https://game-services-svc-611661370769.asia-south1.run.app",
   "test_mode": "false",
-  "topup_active": "true",
+  "topup_active": "false",
   "test_url": "https://test-kh-pi.vercel.app", 
 
   "KF1": "https://khelmela-webview-nsg05.pages.dev",
