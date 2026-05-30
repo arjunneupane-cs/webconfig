@@ -1,8 +1,8 @@
 {
   "baseUrl": "https://khelmela-svc-3wdlqy54rq-el.a.run.app",
   "nsp": "200",
-  "latestVersion": "3.8.5",
-  "latestBuildNumber": "85",
+  "latestVersion": "3.9.0",
+  "latestBuildNumber": "90",
   "status": "200",
   "tokenWindow": "Nv_10-Dc15",
   "notify": "https://khelmela-svc-3wdlqy54rq-el.a.run.app",
