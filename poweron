@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://khelmela-svc-3wdlqy54rq-el.a.run.app",
+  "baseUrl": "https://khelmela-svc-391976926270.asia-south1.run.app",
   "nsp": "200",
   "latestVersion": "3.9.0",
   "latestBuildNumber": "90",
@@ -7,7 +7,7 @@
   "tokenWindow": "Nv_10-Dc15",
   "notify": "https://khelmela-svc-3wdlqy54rq-el.a.run.app",
   "transaction_server": "https://transaction-svc-3wdlqy54rq-el.a.run.app",
-  "game_server": "https://game-services-svc-3wdlqy54rq-el.a.run.app",
+  "game_server": " https://game-services-svc-980607758312.asia-south1.run.app",
   "test_mode": "false",
   "topup_active": "true",
   "test_url": "https://test-kh-pi.vercel.app", 
