@@ -5,7 +5,7 @@
   "latestBuildNumber": "90",
   "status": "200",
   "tokenWindow": "Nv_10-Dc15",
-  "notify": "https://khelmela-svc-3wdlqy54rq-el.a.run.app",
+  "notify": "https://khelmela-svc-391976926270.asia-south1.run.app",
   "transaction_server": "https://transaction-svc-3wdlqy54rq-el.a.run.app",
   "game_server": " https://game-services-svc-980607758312.asia-south1.run.app",
   "test_mode": "false",
