@@ -1,8 +1,8 @@
 {
   "baseUrl": "https://api.cosmora.studio/khelmela",
   "nsp": "200",
-  "latestVersion": "3.9.0",
-  "latestBuildNumber": "90",
+  "latestVersion": "3.9.6",
+  "latestBuildNumber": "96",
   "status": "200",
   "tokenWindow": "Nv_10-Dc15",
   "notify": "https://api.cosmora.studio/khelmela",
